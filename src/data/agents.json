@@ -1,0 +1,59 @@
+[
+    {
+        "id": 1,
+        "img": "assets/img/agents/dmart.jpg",
+        "name": "D-mart",
+        "post": "Expert at Company",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "star": false
+    },
+    {
+        "id": 2,
+        "img": "assets/img/agents/jyoti.jpg",
+        "name": "Jyoti Gas Appliances",
+        "post": "Expert at Company",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "star": false
+    },
+    {
+        "id": 3,
+        "img": "assets/img/agents/cadbury.jpg",
+        "name": "Cadbury",
+        "post": "Expert at Company",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "star": false
+    },
+
+    {
+        "id": 4,
+        "img": "assets/img/agents/western2.png",
+        "name": "Western Marbo Tiles",
+        "post": "Expert at Company",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "star": false
+    },
+    {
+        "id": 5,
+        "img": "assets/img/agents/sbi.jpg",
+        "name": "SBI",
+        "post": "Expert at Company",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "star": false
+    },
+    {
+        "id": 6,
+        "img": "assets/img/agents/aquarious.jpg",
+        "name": "Aquarius Ventures ",
+        "post": "Expert at Company",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "star": false
+    },
+    {
+        "id": 7,
+        "img": "assets/img/agents/modern.jpg",
+        "name": "Modern Kitchen",
+        "post": "Expert at Company",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "star": false
+    }
+]

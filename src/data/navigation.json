@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "linkText": "Home Pages",
+        "child": false,
+        "icon":"home",
+        "link":"/"
+    },
+    {
+        "id": 2,
+        "linkText": "About Us",
+        "child": false,
+        "icon":"layers",
+        "link": "/about"
+    },
+    {
+        "id": 3,
+        "linkText": "Project",
+        "child": false,
+        "icon":"list",
+        "link":"/projects"
+    }
+    ,
+    {
+        "id": 4,
+        "linkText": "Development Management",
+        "child": false,
+        "icon":"work-table",
+        "link":"/"
+    },
+    {
+        "id": 7,
+        "linkText": "Blog",
+        "child": false,
+        "icon":"blog",
+        "link":"/"
+    },
+    {
+        "id": 8,
+        "linkText": "Contact us",
+        "child": false,
+        "icon":"headset",
+        "link":"/contact"
+    }
+    
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "icon": "telephone",
+        "title": "Reach Out",
+        "text": "Reach out to our expert",
+        "btntext": "Call Us",
+        "btnurl": "tel:+020 2543 2149"
+    },
+    {
+        "id": 2,
+        "icon": "location",
+        "title": "Find Us",
+        "text": "1, Matai chambers, 63 Erandwane, Near Mhatre Bridge, Pune, Maharashtra, India 411004",
+        "btntext": "Get Directions",
+        "btnurl": "#"
+    },
+    {
+        "id": 3,
+        "icon": "speech-bubble",
+        "title": "Get Support",
+        "text": "Chat with Space Builder Expert",
+        "btntext": "Start Chat",
+        "btnurl": "#"
+    }
+]

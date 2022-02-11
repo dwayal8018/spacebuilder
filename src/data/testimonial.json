@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "Perfect service",
+        "comment": "I would like to grasp this opportunity and talk about the exciting features at 64 Meridien right from its Location, elevation to its spacious room sizes and amenities. Eagerly waiting for the living experience. ",
+        "author": "Mr. Sachin Chaudhari",
+        "post": "Assistant G.M - J M Mhatre Infra Pvt Ltd",
+        "authorimg": "assets/img/people/1.jpg",
+        "rating": 5
+    },
+    {
+        "id": 2,
+        "title": "Great support & Best Sales Team",
+        "comment": "Amazing Floor-plan compared to others in the vicinity. Received great support from Sales Team during the entire process.",
+        "author": "Mr. Rahul Rajput",
+        "post": "I.T Engineer, Happiest Minds Technology Ltd",
+        "authorimg": "assets/img/people/2.jpg",
+        "rating": 5
+    },
+    {
+        "id": 3,
+        "title": "High quality.",
+        "comment": "Invested in a Commercial unit with Space Builders Group at their Baner location and received great appreciation after Possession, due to high grade Specifications & quality.",
+        "author": "Mr. Pravin More",
+        "post": "Propreiter, S.K Electricals",
+        "authorimg": "assets/img/people/3.jpg",
+        "rating": 5
+    },
+    {
+        "id": 4,
+        "title": "Transparency",
+        "comment": "Recently purchased a ready possession flat at Hinjewadi location of Space  Builders for my daughter. Very happy with overall experience and quality.",
+        "author": "Mrs. Sarala Patil",
+        "post": "Teacher, Art of Living ",
+        "authorimg": "assets/img/people/3.jpg",
+        "rating": 5
+    }
+]

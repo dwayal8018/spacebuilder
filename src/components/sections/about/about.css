@@ -1,0 +1,19 @@
+.bg-about-3{
+    /* background-image: url("../../../assets/img/misc/building.jpg"); */
+    /* background-image: url("../../../assets/img/misc/abt.jpg"); */
+    /* background-color: black; */
+   
+    max-height: auto; 
+    width: auto;
+    /* background-size: cover; */
+    /* background-repeat: no-repeat; */
+    /* margin-bottom: 10px; */
+    /* margin-left: 2px; */
+}
+.about-3{
+    /* background-color: #f7f9fc; */
+}
+/* .container .about2{
+    margin: 20px;
+    background-color: black;
+} */
